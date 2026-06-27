@@ -47,4 +47,5 @@ body{
 
 .parentdv{
     display: flex;
+    flex-wrap: wrap;
 }

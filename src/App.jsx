@@ -4,9 +4,9 @@ import Card from './components/card'
  const App = () => {
    return (
      <div className='parentdv'>
-     <Card/>
-     <Card/>
-     <Card />
+     <Card user ='Pradum' />
+     <Card user ='Abhijit'/>
+     <Card user ='Daya'   />
      </div>
    )
  }
